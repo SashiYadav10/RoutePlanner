@@ -1,0 +1,8 @@
+city;h;available_permit
+A;40;NONE
+B;0;NONE
+C;30;NONE
+D;30;A38
+E;40;K62
+F;20;NONE
+G;10;NONE

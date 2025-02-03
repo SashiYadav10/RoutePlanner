@@ -1,0 +1,100 @@
+Ahaus;Obertshausen
+Altenholz;Taunusstein
+Andernach;Nordhausen
+Aschersleben;Achim
+Bad Blankenburg;Haldensleben
+Bad Essen;Zeven
+Bad Neustadt;Löhne
+Bad Segeberg;Hildburghausen
+Bad Soden am Taunus;Heide
+Barsbüttel;Korbach
+Barßel;Bad Oeynhausen
+Bebra;Großbeeren
+Berlin;Aachen
+Bohmte;Kappeln
+Bordesholm;Wangen im Allgäu
+Brackenheim;Kaarst
+Braunfels;Geesthacht
+Braunfels;Weinböhla
+Bredstedt;Sarstedt
+Clausthal-Zellerfeld;Henstedt-Ulzburg
+Coburg;Dippoldiswalde
+Coswig;Kleve
+Dautphe;Herten
+Dinslaken;Calau
+Einbeck;Rehlingen-Siersburg
+Erkrath;Weener
+Eutin;Uelzen
+Filderstadt;Senftenberg
+Flörsheim;Emstek
+Frankfurt (Oder);Hohenwestedt
+Freudenstadt;Falkenberg
+Genthin;Zweibrücken
+Gettorf;Sankt Augustin
+Ginsheim-Gustavsburg;Sankt Ingbert
+Glückstadt;Greven
+Gommern;Krefeld
+Großbeeren;Doberlug-Kirchhain
+Gröditz;Burgdorf
+Grünheide;Großburgwedel
+Grünstadt;Brunsbüttel
+Hagen im Bremischen;Saalfeld
+Haiger;Coswig
+Handewitt;Gelnhausen
+Heilbad Heiligenstadt;Großrosseln
+Heiligenhafen;Borna
+Hemer;Moers
+Hohenlockstedt;Osterwieck
+Horb am Neckar;Geislingen an der Steige
+Hünfeld;Elmshorn
+Idstein;Nürnberg
+Ingolstadt;Hatten
+Ismaning;Potsdam
+Kirchheim unter Teck;Speyer
+Kurort Steinbach-Hallenberg;Hockenheim
+Kyritz;Werlte
+Königsee;Bad Vilbel
+Königsee;Wendeburg
+Langen;Glinde
+Lehrte;Zehdenick
+Leipzig;Wiefelstede
+Lengede;Schwalbach
+Leutkirch im Allgäu;Schwandorf
+Lohfelden;Beverstedt
+Memmingen;Salzwedel
+Merzig;Löhne
+Mölln;Wiefelstede
+Mülsen;Hohenwestedt
+Neuenhaus;Germersheim
+Neunkirchen;Achern
+Nordenham;Oldenburg in Holstein
+Oestrich-Winkel;Vechta
+Oldenburg in Holstein;Waghäusel
+Reinfeld;Wallenhorst
+Rhaude;Rehfelde
+Rheinbach;Ensdorf
+Riesa;Kaufbeuren
+Roth;Ismaning
+Saarwellingen;Idar-Oberstein
+Schloß Holte-Stukenbrock;Eisfeld
+Schorndorf;Selm
+Schönkirchen;Gommern
+Senden;Barmstedt
+Stadtroda;Teutschenthal
+Steinfeld;Paderborn
+Süderbrarup;Diez
+Taufkirchen;Nördlingen
+Templin;Grünstadt
+Teutschenthal;Bad Salzungen
+Trebbin;Osnabrück
+Trebur;Zweibrücken
+Treffurt;Ebersbach an der Fils
+Weingarten;Petersberg
+Wiehl;Beeskow
+Wiesenburg;Wertheim
+Wiesloch;Freudenstadt
+Wismar;Wangen im Allgäu
+Wittingen;Balingen
+Wittlich;Großenhain
+Wriezen;Dortmund
+Zirndorf;Wittingen

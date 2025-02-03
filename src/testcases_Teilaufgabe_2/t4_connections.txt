@@ -1,0 +1,11 @@
+city_1;city_2;distance;required_permit
+A;C;20;NONE
+A;D;30;NONE
+A;E;40;NONE
+C;D;11;NONE
+D;F;15;NONE
+E;D;12;NONE
+F;G;20;NONE
+F;H;25;NONE
+G;B;15;F23
+H;B;40;K62
