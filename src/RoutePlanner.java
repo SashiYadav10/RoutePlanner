@@ -5,6 +5,7 @@ public class RoutePlanner {
     private Map<String, City> cities = new HashMap<>();
     private Map<String, List<Connection>> graph = new HashMap<>();
     int permitCost = 10;
+    static int testCaseNr = 1;   //change this value to test it and find the optimal path
 
     /**
      * Liest die Städte aus der angegebenen Datei ein.
@@ -214,7 +215,7 @@ public class RoutePlanner {
 
     public static void main(String[] args) {
         RoutePlanner planner = new RoutePlanner();
-
+        /*
         if (args.length != 2) {
             System.out.println("Usage: java -jar RoutePlanner.jar <cities_file> <connections_file>");
             System.exit(1);
@@ -222,6 +223,9 @@ public class RoutePlanner {
 
         String citiesFile = args[0];
         String connectionsFile = args[1];
+        */
+        String citiesFile = "src/testcases_Teilaufgabe_2/t"+ testCaseNr + "_cities.txt";
+        String connectionsFile = "src/testcases_Teilaufgabe_2/t" + testCaseNr + "_connections.txt";
 
         try {
             planner.readCities(citiesFile);
