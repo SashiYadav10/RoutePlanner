@@ -375,7 +375,7 @@ public class RoutePlanner2 {
 
     public static void main(String[] args) {
         RoutePlanner2 planner = new RoutePlanner2();
-
+        /*
         if (args.length != 3) {
             System.out.println("Usage: java -jar RoutePlanner2.jar <cities_file> <connections_file> <testcases_file>");
             System.exit(1);
@@ -383,6 +383,10 @@ public class RoutePlanner2 {
         String citiesFile = args[0];
         String connectionsFile = args[1];
         String testcasesFile = args[2];
+        */
+        String citiesFile = "src/testcases_Teilaufgabe_3/bigGraph_cities.txt";
+        String connectionsFile = "src/testcases_Teilaufgabe_3/bigGraph_connections.txt";
+        String testcasesFile = "src/testcases_Teilaufgabe_3/testcases_bigGraph.txt";
 
         try {
             planner.readCities(citiesFile);
